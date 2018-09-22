@@ -1,1 +1,1 @@
-https://ijunaidi.github.io/Quotes-app/
+https://github.com/syedkhizerazmi/quots
